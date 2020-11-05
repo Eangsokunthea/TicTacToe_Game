@@ -373,7 +373,7 @@ public class JAVA_TICTACTOE extends javax.swing.JFrame {
             gameScore();
          }
             if (b8 == ("X") && b15 == ("X") && b22 == ("X") && b29 == ("X") && b36 == ("X") && b43 == ("X") && b50 == ("X") && b57 == ("X") )
-         {
+             {
             JOptionPane.showMessageDialog(this, "Player X Wins",
             "Tic Tac Toe", JOptionPane.INFORMATION_MESSAGE);
             
